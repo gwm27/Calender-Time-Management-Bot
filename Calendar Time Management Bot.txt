@@ -1,0 +1,20 @@
+Calendar / Time Management Bot (CTM) 
+
+Organization / Scheduling - Time Manager 
+- Calender 
+- Timing 
+- Due Dates - (Homework / Bill)  
+
+Finance Management - Bill Collector (float) 
+- Taxes 
+- Bills 
+
+College Students - Homework Collector (text) 
+- Classes 
+- Specific Assignments 
+
+Sustainability 
+- Time Management 
+- Work Overload 
+
+
